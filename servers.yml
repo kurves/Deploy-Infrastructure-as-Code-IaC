@@ -52,13 +52,11 @@ Resources:
           sudo apt-get update -y
           sudo apt-get install apache2 -y
           sudo systemctl start apache2.service
-          echo "It works!"> var/www/html/index.html
-          echo "Udagram, Udacity !"> /var/www/html/index.html 
-          echo "Maureen Mwenswa's demo web server up and running."> /var/www/html/index.html
+          echo "<h1>It works! Udagram, Udacity</h1>"> /var/www/html/index.html
+
       # ToDo: AMI ID of Ubuntu Linux machine. Too get one, try creating a VM from the web console.
       ImageId: ami-031cf125b681ca3e0
       # ToDo: Change the key-pair name, as applicable to you.
-      KeyName: kurvesPairName
       SecurityGroups:
         - Ref: WebServerSecGroup
       InstanceType: t3.micro
