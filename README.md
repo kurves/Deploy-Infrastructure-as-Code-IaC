@@ -1,6 +1,6 @@
 # Udacity-IaC-project
 
-##Introduction
+## Introduction
 
 
 This repository is centered on provisioning infrastructure as code(IaC).It is part of my Udacity's Cloud DeveOps Nanodegree program.
