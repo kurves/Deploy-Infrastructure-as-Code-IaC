@@ -18,3 +18,5 @@ First come with a diagram to guide you through the CloudFormation script.
 
 ### Files
 
+* `create.sh` - use this file to create the CloudFormation stack
+* `update.sh` - use this file to update the CloudFormation stack
