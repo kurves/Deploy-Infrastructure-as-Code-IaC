@@ -6,16 +6,20 @@ This folder contains the folders:
 
 ## Dependencies
 
-**AWS account**
+1. **AWS account**
+
 
 You would require this to build the cloud infrastructure, a free tier account is sufficient.
 
+2. **Vs code editor**
 
-**Vs code editor**
 
 This is useful to visualize and interact with the code.
 
-**A [Lucid account](https://www.lucidchart.com)**
+3. **A [Lucid account](https://www.lucidchart.com)** 
+
+
+
 
 This is required to draw a web app architechture diagrams for AWS.
 
