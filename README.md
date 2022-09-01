@@ -1,5 +1,24 @@
 ## Udacity-IaC-project
 
+This folder contains the folders:
+*  project_starter - contains the starter code.
+*  supporting_material - contains the following essential files .json, .yml, .sh t
+
+## Dependencies
+
+**AWS account**
+
+You would require this to build the cloud infrastructure, a free tier account is sufficient.
+
+
+**Vs code editor**
+
+This is useful to visualize and interact with the code.
+
+**A [Lucid account](https://www.lucidchart.com)**
+
+This is required to draw a web app architechture diagrams for AWS.
+
 ### Steps
 #### Step 1
 
