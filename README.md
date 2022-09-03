@@ -25,12 +25,13 @@ You can the the suporting material using the following easy steps:
 - Ensure the AWS CLI is configured
 - Create the network infrastructure 
 - Create the region in the create.sh file
-**./create.sh firstStack network.yml network-parameters.json
+**./create.sh firstStack network.yml network-parameters.json**
 
 - Create servers
 - Change the instance AMI ID and key-pair in the servers.yml
 - Check the region in the update.sh
-**./update.sh secStack servers.yml server-parameters.json
+**./update.sh secStack servers.yml server-parameters.json**
+```
 
 
 
