@@ -40,7 +40,14 @@ This is required to draw a web app architechture diagrams for AWS.
 ### Steps
 #### Step 1
 
-First come with a diagram to guide you through the CloudFormation script.
+First come with a diagram to guide you through the CloudFormation scriptk
+The diagram should include:
+- subnets
+- routing tables
+- aws gateway
+- VPN
+- availabilty zones
+- Elastic bean stalk
 
 ### Diagram
         
