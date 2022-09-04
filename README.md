@@ -47,7 +47,9 @@ The diagram should include:
 - aws gateway
 - VPN
 - availabilty zones
-- Elastic bean stalk
+- application load balancer 
+- ec2 instances
+- IGW
 
 ### Diagram
         
