@@ -69,6 +69,8 @@ The diagram should include:
 * Use AWS services
 * Create a Cloudformation script  
 
+## 3. Networking Infrastucture
+
 ### Files
 
 * `create.sh` - use this file to create the CloudFormation stack
