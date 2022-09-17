@@ -22,7 +22,7 @@ You will need this to come up with the diagrams
 
 ## 1. Introduction to Cloud Formation
 
-## How to run the supporting material?
+### How to run the supporting material?
 
 You can run the supporting material using the following easy steps:
 
@@ -30,14 +30,14 @@ You can run the supporting material using the following easy steps:
 - Create the network infrastructure 
 - Create the region in the create.sh file
 ```
-- ./create.sh firstStack network.yml network-parameters.json
+./create.sh firstStack network.yml network-parameters.json
 ```
 
 - Create servers
 - Change the instance AMI ID and key-pair in the servers.yml
 - Check the region in the update.sh
 ```
-- ./update.sh secStack servers.yml server-parameters.json
+./update.sh secStack servers.yml server-parameters.json
 ```
 
 
