@@ -2,7 +2,7 @@
 
 This folder contains the folders:
 *  project_starter - contains the starter code.
-*  supporting_material - contains the following essential files .json, .yml, .sh t
+*  supporting_material - contains the following essential files .json, .yml, .sh 
 
 ## Dependencies
 
