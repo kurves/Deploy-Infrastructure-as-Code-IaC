@@ -39,10 +39,11 @@ You can the the suporting material using the following easy steps:
 
 This is required to draw a web app architechture diagrams for AWS.
 
-### Steps
+### Steps to follow
+ 
 #### Step 1
 
-First come with a diagram to guide you through the CloudFormation scriptk
+First come with a diagram to guide you through the CloudFormation script
 The diagram should include:
 - subnets
 - routing tables
