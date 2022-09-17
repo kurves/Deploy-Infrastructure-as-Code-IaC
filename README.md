@@ -18,8 +18,11 @@ This is useful to visualize and interact with the code.
 
 3. **A [Lucid account](https://www.lucidchart.com)** 
 
+## Introduction to Cloud Formation
+
 ## How to run the supporting material?
-You can the the suporting material using the following easy steps:
+
+You can run the supporting material using the following easy steps:
 
 - Ensure the AWS CLI is configured
 - Create the network infrastructure 
@@ -36,6 +39,7 @@ You can the the suporting material using the following easy steps:
 ```
 
 
+## Infrastructure Diagrams
 
 This is required to draw a web app architechture diagrams for AWS.
 
