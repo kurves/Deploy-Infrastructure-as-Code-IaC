@@ -13,10 +13,12 @@ You would require this to build the cloud infrastructure, a free tier account is
 
 2. **Vs code editor**
 
-
 This is useful to visualize and interact with the code.
 
 3. **A [Lucid account](https://www.lucidchart.com)** 
+
+You will need this to come up with the diagrams
+
 
 ## 1. Introduction to Cloud Formation
 
