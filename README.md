@@ -18,7 +18,7 @@ This is useful to visualize and interact with the code.
 
 3. **A [Lucid account](https://www.lucidchart.com)** 
 
-## Introduction to Cloud Formation
+## 1. Introduction to Cloud Formation
 
 ## How to run the supporting material?
 
@@ -39,7 +39,7 @@ You can run the supporting material using the following easy steps:
 ```
 
 
-## Infrastructure Diagrams
+## 2. Infrastructure Diagrams
 
 This is required to draw a web app architechture diagrams for AWS.
 
