@@ -21,9 +21,9 @@ You will need this to come up with the diagrams
 
 ## Tools Required to accomplish the task.
 
-1. **AWS CLI tool
-2. ** Terminal( macOS/Linux) or CMD(windows)
-3. Git
+1. **AWS CLI tool**
+2. ** Terminal( macOS/Linux) or CMD(windows)**
+3. **Git**
 
 
 ## 1. Introduction to Cloud Formation
