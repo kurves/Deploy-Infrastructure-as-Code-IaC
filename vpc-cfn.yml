@@ -1,4 +1,4 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: Carlos Rivas / Udacity - This template deploys a VPC
+Description: your name - This template deploys a VPC
 Resources:
 UdacityVPC:
