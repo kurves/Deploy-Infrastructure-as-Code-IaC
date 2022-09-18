@@ -23,7 +23,8 @@ You will need this to come up with the diagrams
 
 1. **AWS CLI tool**
 2. **Terminal( macOS/Linux) or CMD(windows)**
-3. **Git**
+3. **Git** - Version Control System
+4. ** Code editor**
 
 
 ## 1. Introduction to Cloud Formation
