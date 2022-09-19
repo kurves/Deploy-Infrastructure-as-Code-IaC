@@ -19,7 +19,9 @@ aws cloudformation create-stack --stack-name $1 --template-body file://$2  --par
 
 aws cloudformation update-stack  --stack-name myFirstTest --region us-east-1 --template-body file://testcfn.yml
 
+#Describe stack
 
+aws cloudformation describe-stacks --stack-name myFirstTest
 
 
 
