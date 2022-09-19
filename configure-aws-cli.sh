@@ -16,11 +16,9 @@ aws cloudformation create-stack  --stack-name myFirstTest --region us-east-1 --t
 aws cloudformation create-stack --stack-name $1 --template-body file://$2  --parameters file://$3 --capabilities "CAPABILITY_IAM" "CAPABILITY_NAMED_IAM" --region=us-west-2
 
 #Update stack
-
 aws cloudformation update-stack  --stack-name myFirstTest --region us-east-1 --template-body file://testcfn.yml
 
 #Describe stack
-
 aws cloudformation describe-stacks --stack-name myFirstTest
 
 
