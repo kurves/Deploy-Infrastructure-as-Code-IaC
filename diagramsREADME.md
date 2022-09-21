@@ -13,7 +13,7 @@ Interpretation of diagram infrastructre is very important for DevOps engineers.
  
  Diagramming in the cloud involves;
  
- - **Diagramming AWS Accounts and Regions**
+  **Diagramming AWS Accounts and Regions**
  - Cloud Container : This represents te AWS account and all the resources in t
  - Region
  This represents the region in which your business is entirely contained
