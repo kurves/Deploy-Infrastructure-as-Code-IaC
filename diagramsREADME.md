@@ -18,3 +18,9 @@ Interpretation of diagram infrastructre is very important for DevOps engineers.
  - Region
  This represents the region in which your business is entirely contained
  
+**Diagramming Availability Zones**
+- Availability Zones is a set of one or more data centers
+
+#### Best Practices
+- Have more than one availablity zone to avoid a single point of failure
+- include more than one availabiltiy zone to design for hidh availabilty
