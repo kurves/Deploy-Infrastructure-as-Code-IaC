@@ -1,4 +1,4 @@
-## Udacity-IaC-project
+## Infrastucture as Code (IaC)
 
 This folder contains the folders:
 *  project_starter - contains the starter code.
