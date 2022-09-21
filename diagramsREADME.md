@@ -1,6 +1,8 @@
 ## Diagrams
 Diagrams are very important starting point when planning your cloud infrastructure.
-Visual representantions help DevOps Engineers to visualize.
+Visual representantions help DevOps Engineers to visualize cloud infrastructure before they turn it into code.
+
+Interpretation of diagram infrastructre is very important FOR DevOps engineers.
 
 ### steps
 
