@@ -14,14 +14,14 @@ Interpretation of diagram infrastructre is very important for DevOps engineers.
  Diagramming in the cloud involves;
  
   **Diagramming AWS Accounts and Regions**
- - Cloud Container : This represents te AWS account and all the resources in t
+ - Cloud Container : This represents the AWS account and all the resources in it
  - Region
  This represents the region in which your business is entirely contained
  
 **Diagramming Availability Zones**
 - Availability Zones is a set of one or more data centers
 
-#### Best Practices
-- Have more than one availablity zone to avoid a single point of failure
-- Include more than one availabiltiy zone to design for high availabilty
+### Best Practices
+- Have more than one availablity zone to avoid a single point of failure.
+- Include more than one availabiltiy zone to design for high availability
 - Use one AZ when designing or ptototyping but not recommended for production environments.
