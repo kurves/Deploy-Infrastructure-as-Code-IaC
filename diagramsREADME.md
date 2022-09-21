@@ -23,4 +23,5 @@ Interpretation of diagram infrastructre is very important for DevOps engineers.
 
 #### Best Practices
 - Have more than one availablity zone to avoid a single point of failure
-- include more than one availabiltiy zone to design for hidh availabilty
+- Include more than one availabiltiy zone to design for high availabilty
+- Use one AZ when designing or ptototyping but not recommended for production environments.
