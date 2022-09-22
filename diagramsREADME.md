@@ -33,6 +33,7 @@ Your Diagram can include:
 
 **Public and Private Subnets** - It is a subset of the overall VPC network and only exists in a single availability zone.
 Public subnets are accesibke to external users while private subnets are not.
-
+**IGW** - It is a resource that enables inbound and outbound traffic from the internet to your VPC
+**NAT Gateway** - It provides for a way for servers in the private subnet to access the internet
 
 
