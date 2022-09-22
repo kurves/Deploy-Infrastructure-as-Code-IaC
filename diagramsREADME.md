@@ -11,7 +11,7 @@ Interpretation of diagram infrastructre is very important for DevOps engineers.
 - Place the resources correctly in the diagram, VPC,subnet, availability zones, load balancer, Ec2.
  
  
- Diagramming in the cloud involves;
+### Diagramming in the cloud involves;
  
   **Diagramming AWS Accounts and Regions**
  - Cloud Container : This represents the AWS account and all the resources in it
