@@ -24,10 +24,15 @@ Interpretation of diagram infrastructre is very important for DevOps engineers.
 ### Best Practices
 - Have more than one availablity zone to avoid a single point of failure.
 - Include more than one availabiltiy zone to design for high availability
+- Use one AZ when designing or ptototyping but not recommended for production environments.
+
 
 Your Diagram can include:
+
 **A VPC** - Which is a pool of networked cloud resources
-**Public nad Private Subnets** - It is a subset of the overall VPC network and only exists in a single availability zone.
+
+**Public and Private Subnets** - It is a subset of the overall VPC network and only exists in a single availability zone.
+Public subnets are accesibke to external users while private subnets are not.
 
 
-- Use one AZ when designing or ptototyping but not recommended for production environments.
+
