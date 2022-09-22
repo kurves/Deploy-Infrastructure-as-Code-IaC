@@ -37,6 +37,8 @@ Public subnets are accesibke to external users while private subnets are not.
 **IGW** - It is a resource that enables inbound and outbound traffic from the internet to your VPC
 
 **NAT Gateway** - It provides for a way for servers in the private subnet to access the internet
+
 **Autoscaling Group** - Coherent group pf EC2 instances
+**Load Balancers** - Takes incoming traffic and distributes to two or more resources
 
 
