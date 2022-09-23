@@ -42,6 +42,9 @@ Public subnets are accesibke to external users while private subnets are not.
 
 **Load Balancers** - Takes incoming traffic and distributes to two or more resources
 **Security Groups** - Security groups manage traffic at the server level i.e inbound and outbound traffic
-**Routing Table** - A routing table defines the rules regarding moving traffic
 
+**Routing Table** - A routing table defines the rules regarding moving 
+traffic
+
+**S3** - It is a public service for users to upload or download files
 
