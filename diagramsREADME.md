@@ -41,5 +41,7 @@ Public subnets are accesibke to external users while private subnets are not.
 **Autoscaling Group** - Coherent group pf EC2 instances
 
 **Load Balancers** - Takes incoming traffic and distributes to two or more resources
+**Security Groups** - Security groups manage traffic at the server level i.e inbound and outbound traffic
+**Routing Table** - A routing table defines the rules regarding moving traffic
 
 
