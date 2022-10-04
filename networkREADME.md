@@ -11,4 +11,6 @@ The parameters field further contains:
 - Type
 - Default
 
+**Reference** - Use to reference parameters in the Resources and Outputs
+
 
