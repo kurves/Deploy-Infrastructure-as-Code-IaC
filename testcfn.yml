@@ -1,3 +1,12 @@
 
 AWSTemplateFormatVersion: 2010-09-09
 Description: Kurves / Udacity - This template deploys a VPC
+
+AWSTemplateFormatVersion: 2010-09-09
+Description: kurves / Udacity - This template deploys a VPC
+Resources:
+kurvesVPC:
+ Type: 'AWS::EC2::VPC'
+ Properties:
+   CidrBlock: 10.0.0.0/16
+   EnableDnsHostnames: 'true'
