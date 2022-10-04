@@ -13,4 +13,5 @@ The parameters field further contains:
 
 **Reference** - Use to reference parameters in the Resources and Outputs
 
+**Resources** - This mandatory section declares the AWS resources that are to be included in the stack such as Servers
 
