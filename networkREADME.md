@@ -6,7 +6,7 @@
 
 The parameters field further contains:
 
-- Parameter Name
+- Parameter Name - Provides a name 
 - Description
 - Type
 - Default
