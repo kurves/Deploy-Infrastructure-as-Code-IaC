@@ -20,3 +20,6 @@ Each resources is defined with the help of the following fields:
 **Name**
 
 **Resource Type**
+
+**Resource properties**
+
