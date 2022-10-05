@@ -19,7 +19,7 @@ Each resources is defined with the help of the following fields:
 
 **Name** - A string value representing the resources name.  
 
-**Resource Type**
+**Resource Type** - Identifies the type of esource that is to be declared
 
 **Resource properties**
 
