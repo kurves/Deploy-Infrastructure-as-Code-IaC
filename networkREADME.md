@@ -17,7 +17,7 @@ The parameters field further contains:
 
 Each resources is defined with the help of the following fields:
 
-**Name**
+**Name** - A string value representing the resources name.  
 
 **Resource Type**
 
