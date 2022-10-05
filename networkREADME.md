@@ -15,3 +15,6 @@ The parameters field further contains:
 
 **Resources** - This mandatory section declares the AWS resources that are to be included in the stack such as Servers
 
+Each resources is defined with the help of the following fields:
+
+**Name**
