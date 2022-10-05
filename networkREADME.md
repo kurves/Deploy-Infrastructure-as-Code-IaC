@@ -9,7 +9,7 @@ The parameters field further contains:
 - Parameter Name - Provides a name 
 - Description - A textual value
 - Type - Identifies data type of the parameter, such as String or a Number
-- Default
+- Default - Presents default value of the parameter
 
 **Reference** - Use to reference parameters in the Resources and Outputs
 
