@@ -7,7 +7,7 @@
 The parameters field further contains:
 
 - Parameter Name - Provides a name 
-- Description
+- Description - A textual value
 - Type
 - Default
 
