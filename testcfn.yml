@@ -17,7 +17,15 @@ Type: "AWS::EC2::Instance"
 Properties:
  ImageId: "ami-0ff8a91507f90f867"
  
- Type: AWS::EC2::VPCGatewayAttachment
+ 
+InternetGateway:
+    Type: AWS::EC2::InternetGateway
+    Properties:
+        Tags:
+            - Key: Name
+              Value: !Ref EnvironmentName
+ 
+Type: AWS::EC2::VPCGatewayAttachment
 Properties: 
 InternetGatewayId: String
 VpcId: String
