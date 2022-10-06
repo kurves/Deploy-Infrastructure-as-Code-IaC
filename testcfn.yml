@@ -17,6 +17,12 @@ Type: "AWS::EC2::Instance"
 Properties:
  ImageId: "ami-0ff8a91507f90f867"
  
+ Type: AWS::EC2::VPCGatewayAttachment
+Properties: 
+InternetGatewayId: String
+VpcId: String
+VpnGatewayId: String
+ 
 Outputs:
   VPC:
     Description: A reference to the created VPC
