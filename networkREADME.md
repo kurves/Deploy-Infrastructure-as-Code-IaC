@@ -24,3 +24,5 @@ Each resources is defined with the help of the following fields:
 **Resource properties** - The resource Properties field has further sub-fields that are specific to each tye of resource
 
 **Reference** - Used to refernce parameters
+
+**Outputs** - Declares output values for each resources that you can import into other stacks. for example the VPC ID 
