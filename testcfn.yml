@@ -23,3 +23,9 @@ Outputs:
     Value: !Ref VPC
     Export:
       Name: !Sub ${EnvironmentName}-VPCID
+
+  VPCPublicRouteTable:
+    Description: Public Routing
+    Value: !Ref PublicRouteTable
+    Export:
+      Name: !Sub ${EnvironmentName}-PUB-RT
