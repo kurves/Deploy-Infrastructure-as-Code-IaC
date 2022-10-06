@@ -33,3 +33,5 @@ Each resources is defined with the help of the following fields:
 **Value** - The property returned by the aws cloudformation describe-stacks command.
 
 **Export** - The name of the resource output to be exported for a cross-stack reference.
+
+**Route table** - Routing is the action of applying (routing) rules to your network, in this case, to your VPC. A route table contains a set of rules. It blocks traffic from resources that do not follow the routing rule. It is represented as an
