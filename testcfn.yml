@@ -10,3 +10,9 @@ kurvesVPC:
  Properties:
    CidrBlock: 10.0.0.0/16
    EnableDnsHostnames: 'true'
+
+Resources:
+kurvesEC2Instance:
+Type: "AWS::EC2::Instance"
+Properties:
+ ImageId: "ami-0ff8a91507f90f867"
