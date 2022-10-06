@@ -16,3 +16,10 @@ kurvesEC2Instance:
 Type: "AWS::EC2::Instance"
 Properties:
  ImageId: "ami-0ff8a91507f90f867"
+ 
+Outputs:
+  VPC:
+    Description: A reference to the created VPC
+    Value: !Ref VPC
+    Export:
+      Name: !Sub ${EnvironmentName}-VPCID
