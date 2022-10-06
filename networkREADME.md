@@ -21,5 +21,5 @@ Each resources is defined with the help of the following fields:
 
 **Resource Type** - Identifies the type of esource that is to be declared
 
-**Resource properties**
+**Resource properties** - The resource Properties field has further sub-fields that are specific to each tye of resource
 
