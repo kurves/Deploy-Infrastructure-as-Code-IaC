@@ -1,4 +1,4 @@
-### Sections conatined in the ```network.yml```
+### Sections contained in the ```network.yml```
 
 **Description** - it presents a text dexcription
 
