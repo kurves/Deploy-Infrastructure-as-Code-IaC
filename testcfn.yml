@@ -42,6 +42,17 @@ Properties:
     - Tag
   VpcId: String
  
+ PrivateSubnet1: 
+      Type: AWS::EC2::Subnet
+      Properties:
+          VpcId: !Ref VPC
+          AvailabilityZone: !Select [ 0, !GetAZs '' ]
+          CidrBlock: !Ref PrivateSubnet1CIDR
+          MapPublicIpOnLaunch: false
+          Tags: 
+              - Key: Name 
+                Value: !Sub ${EnvironmentName} Private Subnet (AZ1)
+ 
 Outputs:
   VPC:
     Description: A reference to the created VPC
