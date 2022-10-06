@@ -28,3 +28,4 @@ Each resources is defined with the help of the following fields:
 **Outputs** - Declares output values for each resources that you can import into other stacks. for example the VPC ID 
  The Output section requires the following:
  **Description** - string
+Value - The property returned by the aws cloudformation describe-stacks command.
