@@ -37,3 +37,5 @@ Each resources is defined with the help of the following fields:
 **Route table** - Routing is the action of applying (routing) rules to your network, in this case, to your VPC. 
 
 **Rules** - Rules define the network protocol, allowed IP addresses, and ports to allow the inbound and outbound traffic separately. 
+
+The flow of creating resources here will be: Create route tables → Add routes → Associate route table to subnets.
