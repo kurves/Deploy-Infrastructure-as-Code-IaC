@@ -77,3 +77,8 @@ Outputs:
     Value: !Ref PublicRouteTable
     Export:
       Name: !Sub ${EnvironmentName}-PUB-RT
+Type: AWS::EC2::RouteTable
+Properties: 
+Tags: 
+  - Tag
+VpcId: String
