@@ -124,3 +124,9 @@ Type: AWS::EC2::SubnetRouteTableAssociation
 Properties: 
 RouteTableId: String
 SubnetId: String
+
+PublicSubnet1RouteTableAssociation:
+      Type: AWS::EC2::SubnetRouteTableAssociation
+      Properties:
+          RouteTableId: !Ref PublicRouteTable
+          SubnetId: !Ref PublicSubnet1
