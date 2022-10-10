@@ -46,3 +46,5 @@ This only takes two properties, which are the id's used for
 - RouteTable 
 - Subnet.
 
+**Join Function** - Used the join function to combine a group of values. 
+
