@@ -43,4 +43,6 @@ The flow of creating resources here will be: Create route tables → Add routes 
 **SubnetRouteTableAssociation**
 In order to associate subnets with our route table, we will need to use a SubnetRouteTableAssociation resource 
 
-This only takes two properties, which are the id's used for our RouteTable and our Subnet. You can see references used in the example from our video lesson above.
+This only takes two properties, which are the id's used for 
+- RouteTable 
+- Subnet. You can see references used in the example from our video lesson above.
