@@ -45,4 +45,5 @@ In order to associate subnets with our route table, we will need to use a Subnet
 
 This only takes two properties, which are the id's used for 
 - RouteTable 
-- Subnet. You can see references used in the example from our video lesson above.
+- Subnet.
+
