@@ -41,4 +41,4 @@ Each resources is defined with the help of the following fields:
 The flow of creating resources here will be: Create route tables → Add routes → Associate route table to subnets.
 
 **SubnetRouteTableAssociation**
-In order to associate subnets with our route table, we will need to use a SubnetRouteTableAssociation resource using the
+In order to associate subnets with our route table, we will need to use a SubnetRouteTableAssociation resource 
