@@ -49,7 +49,9 @@ You can run the supporting material using the following easy steps:
 ##ToDo
 Write a CloudFormation script that:
 
+1. Creates a VPC
 
+- It will accept the IP Range -also known as CIDR block- from an input parameter
 
 
 
