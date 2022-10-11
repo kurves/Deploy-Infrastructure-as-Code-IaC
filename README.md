@@ -57,6 +57,10 @@ Write a CloudFormation script that:
 
 3. Creates Two Subnets within the VPC
 
+4. The Subnet called “Public” needs to have a NAT Gateway deployed in it
+This will require you to allocate an Elastic IP that you can then use to assign it to the NAT Gateway.
+
+
 ## 2. Infrastructure Diagrams
 
 This is required to draw a web app architechture diagrams for AWS.
