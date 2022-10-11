@@ -55,7 +55,7 @@ Write a CloudFormation script that:
 
 2. Creates and attaches an Internet Gateway to the VPC
 
-3. Creates Two Subnets within the VPC with Name Tags to call them “Public” and “Private”
+3. Creates Two Subnets within the VPC
 
 ## 2. Infrastructure Diagrams
 
