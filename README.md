@@ -59,8 +59,7 @@ Write a CloudFormation script that:
 
 4. The Subnet called “Public” needs to have a NAT Gateway deployed in it
 
-5. The Public Subnet needs to have the MapPublicIpOnLaunch property set to true. Use this reference for help.
-
+5. The Public Subnet needs to have the MapPublicIpOnLaunch property set to true.
 
 
 ## 2. Infrastructure Diagrams
