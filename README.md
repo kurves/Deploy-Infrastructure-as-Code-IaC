@@ -53,6 +53,7 @@ Write a CloudFormation script that:
 
 - It will accept the IP Range -also known as CIDR block- from an input parameter
 
+2. Creates and attaches an Internet Gateway to the VPC
 
 
 ## 2. Infrastructure Diagrams
