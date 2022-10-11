@@ -63,6 +63,7 @@ Write a CloudFormation script that:
 
 6. The Private Subnet needs to have the MapPublicIpOnLaunch property set to false.
 
+7. You will need 2 Routing Tables, one named Public and the other one Private
 
 ## 2. Infrastructure Diagrams
 
