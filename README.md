@@ -61,6 +61,8 @@ Write a CloudFormation script that:
 
 5. The Public Subnet needs to have the MapPublicIpOnLaunch property set to true.
 
+6. The Private Subnet needs to have the MapPublicIpOnLaunch property set to false.
+
 
 ## 2. Infrastructure Diagrams
 
