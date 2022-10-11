@@ -67,6 +67,8 @@ Write a CloudFormation script that:
 
 8. Both subnets need to be /24 in size.
 
+9. Assign the Public and Private Subnets to their corresponding Routing table
+
 ## 2. Infrastructure Diagrams
 
 This is required to draw a web app architechture diagrams for AWS.
