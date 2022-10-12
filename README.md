@@ -117,4 +117,4 @@ The diagram should include:
 ### Hints
 
 - Use DependsOn attribute Because NAT Gateways and Internet Gateway attachments aren’t automatic and take some time to provision.
-
+-  Don’t attempt to write it all at once!
