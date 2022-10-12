@@ -10,3 +10,8 @@ SecurityGroupIngress:
 Tags: 
   - Tag
 VpcId: String
+
+Properties:
+- Mandatory property - GroupDescription
+- GroupName
+- SecurityGroupEgress and SecurityGroupIngres rules
