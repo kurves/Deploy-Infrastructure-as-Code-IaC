@@ -66,6 +66,7 @@ Write a CloudFormation script that:
 8. Both subnets need to be /24 in size.
 
 9. Assign the Public and Private Subnets to their corresponding Routing table
+Create a Route in the Public Route Table to send default traffic ( 0.0.0.0/0 ) to the Internet Gateway you created
 
 ## 2. Infrastructure Diagrams
 
