@@ -113,3 +113,7 @@ The diagram should include:
 ### Scripts
 * `network.yml`-
 * `servers.yml` - use this to provision your server
+
+### Hints
+Because NAT Gateways and Internet Gateway attachments aren’t automatic and take some time to provision, you may need the DependsOn attribute to wait for these events in your script.
+
