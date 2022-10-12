@@ -46,12 +46,10 @@ You can run the supporting material using the following easy steps:
 ```
 ./update.sh secStack servers.yml server-parameters.json
 ```
-##ToDo
+## ToDo
 Write a CloudFormation script that:
 
 1. Creates a VPC
-
-- It will accept the IP Range -also known as CIDR block- from an input parameter
 
 2. Creates and attaches an Internet Gateway to the VPC
 
