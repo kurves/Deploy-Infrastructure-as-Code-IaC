@@ -112,9 +112,11 @@ The diagram should include:
 
 ### Scripts
 * `network.yml`-
-* `servers.yml` - use this to provision your server
+* `servers.yml` - Defines various resources such as security groups, auto scaling group, launch configuration and load balancers.
 
 ### Hints
 
 - Use DependsOn attribute Because NAT Gateways and Internet Gateway attachments aren’t automatic and take some time to provision.
 -  Don’t attempt to write it all at once!
+
+## Servers and Security Groups
