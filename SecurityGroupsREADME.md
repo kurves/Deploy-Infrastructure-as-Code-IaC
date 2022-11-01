@@ -14,6 +14,9 @@ For egress rules, we want to give the resource full access to the internet.
 
 ## Intrinsic functions in cloudFormation template
 Aws provides a few predefined functions that you can use in your template
+
 ```Fn::sub:``` : This function substitutes value to a property at runtime
+
 ```Fn:GetAZs:``` : This function returns an array that lists availability zones for a specified region.
+
 ```Fn::Select:```: This function returns a single object from a list of objects by index.
