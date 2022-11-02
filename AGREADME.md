@@ -15,3 +15,7 @@ It is a saved resource that stores the configuration deatails of an EC2 instance
 ## UserData script
 
 A UserData script is a series of commands that run automaticallly at the time of starting your EC2 instance
+The purpose is to properly configure the EC2 instance before running the application
+
+## Load Balancer
+A load balancer automatically distributes incoming application traffic across multiple servers.
