@@ -5,3 +5,9 @@ This service monitors the EC2 instances automatucally and ajusts the running cou
 ## SAcaling policy
 
 A Scaling policy is the citeria used to decide when to add or remove servers from auto scaling Group.
+
+
+## Launch Configuration
+
+A launch configuration is a template or a recipe
+IOt is a saved resource that stores the configuration deatails of an EC2 instance, such as the AMI, instance-type  and security Group.
