@@ -30,3 +30,7 @@ A listener rule determines how the load balancer reoutes request to the register
 ## Target Group 
 
 A target group is a logical group of EC2 instances spanning numerous subnets in  a given vpc
+
+##
+
+Health checks are the request your Application Load Balancer sends to its registered targets.
