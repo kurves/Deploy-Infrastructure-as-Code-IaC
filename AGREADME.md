@@ -24,3 +24,9 @@ A load balancer automatically distributes incoming application traffic across mu
 
 A load balancer requires a listener
  A listener is  aprocess that checks for connection requests  using the protocol and port specified in the code.
+
+A listener rule determines how the load balancer reoutes request to the registered targers
+
+## Target Group 
+
+A target group is a logical group of EC2 instances spanning numerous subnets in  a given vpc
