@@ -19,3 +19,8 @@ The purpose is to properly configure the EC2 instance before running the applica
 
 ## Load Balancer
 A load balancer automatically distributes incoming application traffic across multiple servers.
+
+## Listener and Listener rule
+
+A load balancer requires a listener
+ A listener is  aprocess that checks for connection requests  using the protocol and port specified in the code.
