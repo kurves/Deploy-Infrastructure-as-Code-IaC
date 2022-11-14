@@ -126,3 +126,6 @@ Security groups are specific to individual resources (EC2 servers, databases) an
 
 ## Storage and Databases
 
+Relational Database Storage (RDS)
+
+Object storage service - Simple Storage Service (S3
