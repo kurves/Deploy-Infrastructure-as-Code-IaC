@@ -124,4 +124,5 @@ The diagram should include:
 Security Groups
 Security groups are specific to individual resources (EC2 servers, databases) and not to subnets.
 
+## Storage and Databases
 
